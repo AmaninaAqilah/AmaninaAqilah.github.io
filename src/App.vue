@@ -17,7 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <dl class="mt-16 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8 ">
         <div class="border-t border-gray-200 pt-4 ">
           <dt class="font-medium text-gray-900">Full name</dt>
-          <dd class="mt-2 text-sm text-gray-500">Nur Amanina Aqilah Binti Awg Abd Rahim</dd>
+          <dd class="mt-2 text-sm text-gray-500">Nur Amanina Aqilah</dd>
         </div>
 
         <div class="border-t border-gray-200 pt-4">
